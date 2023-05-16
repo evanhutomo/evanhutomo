@@ -1,6 +1,6 @@
 ### Hello, I am Evan Hutomo 👋
 
-#### I'm a Software Engineer working in Japan.
+#### I'm a Software Engineer working in Indonesia.
 
 - 💻  daily : `.py`, `.sh`, `.c`, `.cpp`, `.vim`, `.bb`, `.bbclass`
 - 📖  Love reading human psychology books
