@@ -2,9 +2,8 @@
 
 #### I'm a Software Engineer working in Indonesia.
 
-- 💻  daily : `.cpp`, `.py`, `.cs`, `.sh`, `.vim`, `.bb`, `.bbclass`, `.go`
-- 📖  Love reading human psychology books
-- 👍🏻  Interest with pixel art, Japanese kanji, vector art, urban sketch
+- 💻  daily : `.cpp`, `.py`, `.cs`, `.sh`, `.vim`, `.bb`, `.bbclass`, `.go`, `.rs`, `.js`
+- 📖  now reading: man search for meaning
 
 #### My open source projects on GitHub
 - 2017 ➡ [bedekan](https://github.com/evanhutomo/bedekan)
