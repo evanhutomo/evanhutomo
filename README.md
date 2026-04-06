@@ -8,3 +8,5 @@
 #### My open source projects on GitHub
 - 2017 ➡ [bedekan](https://github.com/evanhutomo/bedekan)
 - 2017 ➡ [kanji-flashcard](https://github.com/evanhutomo/kanji-flashcard)
+- 2026 ➡ [bookshelf](https://github.com/evanhutomo/bookshelf)
+- 2026 ➡ [lingolock](https://github.com/evanhutomo/lingolock)
